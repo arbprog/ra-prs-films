@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.7e658a89.css","mappings":"AAAA,KACE,sBAAuB,CACvB,iBACF,CAEA,EACE,eACF,CAEA,GACE,YACF","sources":["components/App/App.css"],"sourcesContent":[".App {\n  font-family: sans-serif;\n  text-align: center;\n}\n\n* {\n  list-style: none;\n}\n\nul {\n  display: flex;\n}\n"],"names":[],"sourceRoot":""}

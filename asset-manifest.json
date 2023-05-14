@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ra-prs-films/static/css/main.7e658a89.css",
+    "main.js": "/ra-prs-films/static/js/main.76572f6b.js",
+    "index.html": "/ra-prs-films/index.html",
+    "main.7e658a89.css.map": "/ra-prs-films/static/css/main.7e658a89.css.map",
+    "main.76572f6b.js.map": "/ra-prs-films/static/js/main.76572f6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e658a89.css",
+    "static/js/main.76572f6b.js"
+  ]
+}
